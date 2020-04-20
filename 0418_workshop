@@ -1,3 +1,5 @@
+//OUTPUT: https://gyazo.com/42fc6886bb8e065d356a2234dc06367b
+
 float circ(vec2 position) {
     float radius = 0.8; 
     return length(position) - radius;
